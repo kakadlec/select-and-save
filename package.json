@@ -1,0 +1,15 @@
+{
+  "name": "export-db",
+  "version": "1.0.0",
+  "description": "Read local db and save on remote db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karel Kadlec",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.20.2",
+    "mysql": "^2.17.1"
+  }
+}
